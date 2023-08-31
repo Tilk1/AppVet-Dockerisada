@@ -1,5 +1,5 @@
 
-  <h1>APP Vet ¡Oh my DOG! 🐕  (ersion dockerisada!) </h1>
+  <h1>APP Vet ¡Oh my DOG! 🐕  (Version dockerisada) </h1>
   <p>
 
     
