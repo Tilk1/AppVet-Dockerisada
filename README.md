@@ -3,8 +3,7 @@
   <p>
     Aplicacion veteerinaria, version dockerisada!
     
-    ![image](https://github.com/Tilk1/AppVet-Dockerisada/assets/24284918/15ccf7cd-0cbc-49c0-83ec-fc6444bf9db1)<div align="center">
-    [Uploading image.png…]()
+![image](https://github.com/Tilk1/AppVet-Dockerisada/assets/24284918/c4838b74-4ed1-4386-a166-18a2ef354ecc)
 
   </p>
 </div>
