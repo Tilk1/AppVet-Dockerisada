@@ -16,5 +16,7 @@
 2- docker compose up
 
 Datos login:
-(ADMIN) user: lucia@gmail.com  pass: 123456789
-(USER) user:  juancho@gmail.com pass: 123456789
+
+ <p>(ADMIN) user: lucia@gmail.com  pass: 123456789 </p>
+   
+ <p>(USER) user:  juancho@gmail.com pass: 123456789 </p>
