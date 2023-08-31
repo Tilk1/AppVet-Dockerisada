@@ -5,7 +5,7 @@ class Campania extends Model { }
 
 Campania.init({
   titulo: {
-    type: DataTypes.STRING,
+    type: DataTypes.STRING(1000),
     allowNull: false,
   },
   descripcion: {
@@ -20,6 +20,7 @@ Campania.init({
   sequelize,
   modelName: 'Campania',
   tableName: 'campanias',
+  timestamps: false,
 });
 
 module.exports = Campania;
