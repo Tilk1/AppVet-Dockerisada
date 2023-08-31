@@ -14,3 +14,7 @@
 1- docker build -t vet-imagen .
 
 2- docker compose up
+
+Datos login:
+(ADMIN) user: lucia@gmail.com  pass: 123456789
+(USER) user:  juancho@gmail.com pass: 123456789
